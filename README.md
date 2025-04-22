@@ -1,6 +1,6 @@
 # nba-statistics-generator
 
-![Image](https://github.com/user-attachments/assets/fe317887-b833-40e5-83a5-4445f6a4d57b)
+![Image](https://github.com/user-attachments/assets/78c4f37e-52f5-498f-b05e-af9b6146fd7c)
 
 ## Live Project on code.org 
 
